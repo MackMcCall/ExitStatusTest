@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExitStatusTest/1.0.0": {
+        "runtime": {
+          "ExitStatusTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExitStatusTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

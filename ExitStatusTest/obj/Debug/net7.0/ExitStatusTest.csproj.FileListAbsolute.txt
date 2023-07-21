@@ -1,0 +1,15 @@
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\bin\Debug\net7.0\ExitStatusTest.exe
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\bin\Debug\net7.0\ExitStatusTest.deps.json
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\bin\Debug\net7.0\ExitStatusTest.runtimeconfig.json
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\bin\Debug\net7.0\ExitStatusTest.dll
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\bin\Debug\net7.0\ExitStatusTest.pdb
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.csproj.AssemblyReference.cache
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.AssemblyInfoInputs.cache
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.AssemblyInfo.cs
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.csproj.CoreCompileInputs.cache
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.dll
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\refint\ExitStatusTest.dll
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.pdb
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ExitStatusTest.genruntimeconfig.cache
+C:\Users\mackm\OneDrive\Desktop\repos\ExitStatusTest\ExitStatusTest\obj\Debug\net7.0\ref\ExitStatusTest.dll
